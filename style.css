@@ -1,0 +1,25 @@
+body{
+
+}
+section{
+    width: 1160px;
+    padding: 50px 100px;
+}
+.flexiblity{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.planning-part{
+    gap: 5%;
+}
+.fraction-width{
+    width: 30%;
+}
+.fraction-width img{
+    width: 30%;
+}
+.hero-image{
+    width: 100%;
+}
