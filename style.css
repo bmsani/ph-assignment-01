@@ -83,6 +83,24 @@ h4{
     width: 66%;
     padding: 0 5%;
 }
+.social-part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.social-group{
+    width: 60%;
+    height: 30%;
+    text-align: center;
+}
+.Social-links{
+     display: flex;
+     justify-content: center;
+     gap: 2%;
+}
+.Social-links a img{
+    height: 50px;
+}
 footer{
     background-color: black;
     color: white;
