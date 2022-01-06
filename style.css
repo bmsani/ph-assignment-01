@@ -2,6 +2,16 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+h2{
+    font-size: 38px;
+    text-align: center;
+}
+h3{
+    font-size: 28px;
+}
+h4{
+    font-size: 22px;
+}
 section{
     padding: 50px 100px;
 }
@@ -20,16 +30,6 @@ section{
 .color-defference{
     color: #785497;
 }
-h2{
-    font-size: 38px;
-    text-align: center;
-}
-h3{
-    font-size: 28px;
-}
-h4{
-    font-size: 22px;
-}
 .flexiblity{
     display: flex;
 }
@@ -39,7 +39,6 @@ h4{
 .planning-part{
     gap: 2%;
 }
-
 .fraction-width{
     width: 32%;
     padding: 2%;
