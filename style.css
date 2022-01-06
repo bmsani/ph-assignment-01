@@ -1,8 +1,14 @@
+/*
+font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Yeseva One', cursive;
+ */
+
+
 body{
 
 }
 section{
-    width: 1160px;
     padding: 50px 100px;
 }
 .flexiblity{
@@ -22,4 +28,18 @@ section{
 }
 .hero-image{
     width: 100%;
+}
+.button{
+    text-decoration: none;
+
+}
+.width-one-third{
+    width: 34%;
+}
+.width-two-third{
+    width: 66%;
+    padding: 5%;
+}
+footer{
+    background-color: black;
 }
