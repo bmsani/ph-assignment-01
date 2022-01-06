@@ -28,13 +28,14 @@ section{
     color: #785497;
 }
 h2{
-    font-size: 48px;
-    font-weight: bold;
+    font-size: 38px;
     text-align: center;
 }
 h3{
     font-size: 28px;
-    font-weight: bold;
+}
+h4{
+    font-size: 22px;
 }
 .flexiblity{
     display: flex;
@@ -43,13 +44,25 @@ h3{
     width: 50%;
 }
 .planning-part{
-    gap: 5%;
+    gap: 2%;
 }
+
 .fraction-width{
-    width: 30%;
+    width: 32%;
+    padding: 2%;
+    border-radius: 10px;
 }
 .fraction-width img{
     width: 40%;
+}
+.mission-bg-1{
+    background-color: #4f9da638;
+}
+.mission-bg-2{
+    background-color: rgba(255, 89, 89, 0.178);
+}
+.mission-bg-3{
+    background-color: #FFF4D6;
 }
 .hero-image{
     width: 100%;
@@ -72,5 +85,10 @@ h3{
 }
 footer{
     background-color: black;
-    
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+footer h3{
+    font-family: 'Lobster', cursive;
 }
